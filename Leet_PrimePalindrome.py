@@ -26,4 +26,3 @@ class Solution(object):
 a = Solution()  
 x=a.primePalindrome(6)
 print(x)
-Change?
