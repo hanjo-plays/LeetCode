@@ -33,7 +33,7 @@ class Solution(object):
                 a += 1
             else:
                 b -= 1
-        print("False")        
+        #print("False")        
         return False
 
 print(Solution().judgeSquareSum(999999999))
